@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 220">
+ <g transform="rotate(-8 210 110)" stroke="#781f39" fill="none">
+  <path fill="#f2dec9" stroke-width="3.5" d="M37 38h346a7 7 0 0 1 7 7v45a20 20 0 0 0 0 40v45a7 7 0 0 1-7 7H37a7 7 0 0 1-7-7v-45a20 20 0 0 0 0-40V45a7 7 0 0 1 7-7Z"/>
+  <path stroke-width="1" d="M42 48h336v33a32 32 0 0 0 0 58v33H42v-33a32 32 0 0 0 0-58Z"/>
+  <path d="M287 47v126" stroke-dasharray="5 5"/>
+  <g transform="translate(89 101) rotate(-18)" stroke-width="1.8"><circle r="26"/><ellipse rx="12" ry="26"/><path d="M-25 0h50M-21-14q21 8 42 0M-21 14q21-8 42 0"/></g>
+  <path d="M119 102q37-35 70-15t54-8" stroke-width="2" stroke-dasharray="4 4"/>
+  <path fill="#781f39" stroke="none" transform="translate(249 75) rotate(35)" d="M0-18q3 0 3 7v8l14 8v3L3 4v8l5 4v2l-8-2-8 2v-2l5-4V4l-14 4V5l14-8v-8q0-7 3-7Z"/>
+  <g fill="#781f39" stroke="none" font-family="Georgia,serif"><text x="64" y="153" font-size="23" letter-spacing="1">Global VetPass</text><text x="332" y="148" text-anchor="middle" font-size="14" letter-spacing="2">GVP</text></g>
+  <g fill="#781f39" stroke="none" transform="translate(332 103)"><ellipse cx="-16" cy="-5" rx="5" ry="8" transform="rotate(-16)"/><ellipse cx="-6" cy="-16" rx="5" ry="8"/><ellipse cx="6" cy="-16" rx="5" ry="8"/><ellipse cx="16" cy="-5" rx="5" ry="8" transform="rotate(16)"/><path d="M-13 9q4-6 7-10 6-8 12 0l8 11q5 10-4 11-6 0-10-3-5 3-10 3-10-1-3-12Z"/></g>
+ </g>
+</svg>
